@@ -1,44 +1,49 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--config-env=<name>=<envvar>] <command> [<args>]
+![Logo do projeto Order Registration](https://github.com/lucasranesson/order-registration/assets/20648513/ce62978c-fca0-44ac-b7f1-458c15a1bc42)
+<h1> Order Registration </h1>
 
-These are common Git commands used in various situations:
+![Static Badge](https://img.shields.io/badge/order_registration-v1.0-blue)
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+![Static Badge](https://img.shields.io/badge/Status-%20Em%20Desenvolvimento-green)
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+# :trophy: Objetivo: 
+:construction: Projeto em construção :construction:
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+Criar um formulário simples de cadastro de pedidos de supermercado.
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+* O sistema deve ser escrito em Javascript (react.js)
+* O usuário deve entrar com Nome do Cliente, Data de Entrega e uma lista de compras
+* A lista de compras é composta por um ou mais produtos e a quantidade solicitada para cada um deles
+* O usuário pode alterar a quantidade de itens já cadastrados ou excluir um item que ele não queira mais
+* A cada alteração na lista de compras o sistema deve calcular o valor total do pedido
+* O sistema deve alertar o usuário caso a quantidade solicitada não esteja disponível no estoque
+* O sistema também deve ter uma função para mostrar o estoque atual exibindo: Nome do produto e a quantidade em estoque
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
+# :memo: Tópicos
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
+
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+
+:small_blue_diamond: [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+
+:small_blue_diamond: [Tecnologias](#tecnologias)
+
+# :hammer: Funcionalidades
+
+- `Funcionalidade 1`: Cadastro de pedidos
+- `Funcionalidade 2a`: Edição de pedidos
+- `Funcionalidade 2b`: Remoção de pedidos
+- `Funcionalidade 2`: Controle de estoque
+
+# :heavy_check_mark: Pré-requisitos
+
+:warning: [Node](https://nodejs.org/en/download/)
+
+
+# 🛠️ Abrir e rodar o projeto
+
+**Apresente as instruções necessárias para abrir e executar o projeto**
+
+# :computer: Tecnologias
+
+- ``React.js``
