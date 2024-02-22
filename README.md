@@ -22,9 +22,9 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 # :memo: Tópicos
 
-:small_blue_diamond: [Funcionalidades](#Funcionalidades)
+:small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Pré-requisitos](#Pré-requisitos)
+:small_blue_diamond: [Pré-requisitos](#pre-requisitos)
 
 :small_blue_diamond: [Abrir e rodar o projeto](#Abrir e rodar o projeto)
 
@@ -35,7 +35,7 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 
 
-# :hammer: Funcionalidades
+:hammer: #funcionalidades
 
 - `Funcionalidade 1`: Cadastro de pedidos
 - `Funcionalidade 2a`: Edição de pedidos
@@ -44,7 +44,7 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 
 
-# :heavy_check_mark: Pré-requisitos
+#pre-requisitos :heavy_check_mark: Pré-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/)
 
