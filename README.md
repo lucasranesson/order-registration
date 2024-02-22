@@ -72,3 +72,5 @@ git clone https://github.com/lucasranesson/order-registration.git
 # :heavy_exclamation_mark: Tarefas em aberto
 
 :memo: Alteração de quantidades de produtos no pedido 
+
+:memo: Controle de estoque com notificação 
