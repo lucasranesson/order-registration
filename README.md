@@ -22,20 +22,20 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 # :memo: Tópicos
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades](#Funcionalidades)
 
-:small_blue_diamond: [Pré-requisitos](#pre-requisitos)
+:small_blue_diamond: [Pré-requisitos](#Pré-requisitos)
 
-:small_blue_diamond: [Abrir e rodar o projeto](#Abrir e rodar o projeto)
+:small_blue_diamond: [Abrir e rodar o projeto](#Abrir-e-rodar-o-projeto)
 
 :small_blue_diamond: [Tecnologias](#Tecnologias)
 
-:small_blue_diamond: [Tarefas em aberto](#Tarefas em aberto)
+:small_blue_diamond: [Tarefas em aberto](#Tarefas-em-aberto)
 
 
 
 
-:hammer: #funcionalidades
+# Funcionalidades :hammer:
 
 - `Funcionalidade 1`: Cadastro de pedidos
 - `Funcionalidade 2a`: Edição de pedidos
@@ -44,14 +44,14 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 
 
-#pre-requisitos :heavy_check_mark: Pré-requisitos
+# Pré-requisitos :heavy_check_mark:
 
 :warning: [Node](https://nodejs.org/en/download/)
 
 
 
 
-# 🛠️ Abrir e rodar o projeto
+# Abrir e rodar o projeto 🛠️
 
 No terminal, clone o projeto: 
 
@@ -63,13 +63,13 @@ git clone https://github.com/lucasranesson/order-registration.git
 
 
 
-# :computer: Tecnologias
+# Tecnologias :computer:
 
 - ``React.js``
 
 
 
-# :heavy_exclamation_mark: Tarefas em aberto
+# Tarefas em aberto :heavy_exclamation_mark:
 
 :memo: Alteração de quantidades de produtos no pedido 
 
