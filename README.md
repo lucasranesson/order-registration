@@ -22,15 +22,15 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 # :memo: Tópicos
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades](#Funcionalidades)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
+:small_blue_diamond: [Pré-requisitos](#Pré-requisitos)
 
-:small_blue_diamond: [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+:small_blue_diamond: [Abrir e rodar o projeto](#Abrir e rodar o projeto)
 
-:small_blue_diamond: [Tecnologias](#tecnologias)
+:small_blue_diamond: [Tecnologias](#Tecnologias)
 
-:small_blue_diamond: [Tarefas em aberto](#tarefas-em-aberto)
+:small_blue_diamond: [Tarefas em aberto](#Tarefas em aberto)
 
 
 
