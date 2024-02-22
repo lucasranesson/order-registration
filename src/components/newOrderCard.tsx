@@ -117,17 +117,8 @@ export function NewOrderCard({ sendData }: SendDataProps) {
               </div>
 
               <div className="grid grid-cols-4 float-right">
-                <p
-                  className="text-sm leading-6 bg-slate-400 text-gray-100 text-center w-2/4 h-2/4 rounded-full flex-1"
-                  // onClick={deleteQty({order.id}, )}
-                >
-                  -
-                </p>
                 <p className="text-sm leading-6 text-gray-100 text-center w-2/4 h-2/4 flex-1">
                   {order.qty}
-                </p>
-                <p className="text-sm leading-6 bg-slate-400 text-gray-100 text-center w-2/4 h-2/4 rounded-full flex-1">
-                  +
                 </p>
                 <button
                   onClick={() => {
