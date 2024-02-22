@@ -54,10 +54,22 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 # 🛠️ Abrir e rodar o projeto 
 
 No terminal, clone o projeto: 
-
 ```
 git clone https://github.com/lucasranesson/order-registration.git
 ```
+No terminal, acesse o diretório criado: 
+```
+cd order-registration
+```
+No terminal, instale as dependências: 
+```
+yarn/npn run install
+```
+No terminal, rode o projeto: 
+```
+yarn dev/npm run dev
+```
+No navegador, cole a url gerada pelo comando anterior.
 
 
 
