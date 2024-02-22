@@ -35,7 +35,7 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 
 
-# Funcionalidades :hammer:
+# :hammer: Funcionalidades 
 
 - `Funcionalidade 1`: Cadastro de pedidos
 - `Funcionalidade 2a`: Edição de pedidos
@@ -44,14 +44,14 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 
 
-# Pré-requisitos :heavy_check_mark:
+# :heavy_check_mark: Pré-requisitos 
 
 :warning: [Node](https://nodejs.org/en/download/)
 
 
 
 
-# Abrir e rodar o projeto 🛠️
+# 🛠️ Abrir e rodar o projeto 
 
 No terminal, clone o projeto: 
 
@@ -63,13 +63,13 @@ git clone https://github.com/lucasranesson/order-registration.git
 
 
 
-# Tecnologias :computer:
+# :computer: Tecnologias 
 
 - ``React.js``
 
 
 
-# Tarefas em aberto :heavy_exclamation_mark:
+# :heavy_exclamation_mark: Tarefas em aberto 
 
 :memo: Alteração de quantidades de produtos no pedido 
 
