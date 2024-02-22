@@ -18,6 +18,8 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 * O sistema deve alertar o usuário caso a quantidade solicitada não esteja disponível no estoque
 * O sistema também deve ter uma função para mostrar o estoque atual exibindo: Nome do produto e a quantidade em estoque
 
+
+
 # :memo: Tópicos
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
@@ -28,6 +30,11 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 
 :small_blue_diamond: [Tecnologias](#tecnologias)
 
+:small_blue_diamond: [Tarefas em aberto](#tarefas-em-aberto)
+
+
+
+
 # :hammer: Funcionalidades
 
 - `Funcionalidade 1`: Cadastro de pedidos
@@ -35,15 +42,33 @@ Criar um formulário simples de cadastro de pedidos de supermercado.
 - `Funcionalidade 2b`: Remoção de pedidos
 - `Funcionalidade 2`: Controle de estoque
 
+
+
 # :heavy_check_mark: Pré-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/)
 
 
+
+
 # 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/lucasranesson/order-registration.git
+```
+
+
+
+
 
 # :computer: Tecnologias
 
 - ``React.js``
+
+
+
+# :heavy_exclamation_mark: Tarefas em aberto
+
+:memo: Alteração de quantidades de produtos no pedido 
