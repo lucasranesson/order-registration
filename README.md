@@ -74,3 +74,5 @@ git clone https://github.com/lucasranesson/order-registration.git
 :memo: Alteração de quantidades de produtos no pedido 
 
 :memo: Controle de estoque com notificação 
+
+:memo: Validação dos campos de Cliente e Data de entrega 
