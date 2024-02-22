@@ -1,5 +1,5 @@
 import * as Dialog from "@radix-ui/react-dialog";
-import { OrderProductList } from "./orderProductList"
+import { OrderProductList } from "./productList"
 import { ChangeEvent, useState } from "react";
 
 interface OrderCard{
