@@ -5,8 +5,9 @@
 
 ![Static Badge](https://img.shields.io/badge/Status-%20Em%20Desenvolvimento-green)
 
-# :trophy: Objetivo: 
 :construction: Projeto em construção :construction:
+
+# :trophy: Objetivo: 
 
 Criar um formulário simples de cadastro de pedidos de supermercado.
 
